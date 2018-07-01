@@ -1,0 +1,1 @@
+It is an educational app that is based on general knowlegde.
